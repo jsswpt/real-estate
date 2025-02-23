@@ -1,3 +1,3 @@
-import "./index.scss"
-export * from "./components"
-export * from "./shared"
+import './index.scss'
+export * from './components'
+export * from './shared'
