@@ -2,8 +2,8 @@
   "name": "real-estate",
   "private": true,
   "scripts": {
-    "test": "",
-    "prepare": "husky"
+    "test": "echo 'test'",
+    "prepare": "yarn husky"
   },
   "workspaces": [
     "packages/*",
