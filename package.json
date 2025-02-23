@@ -2,7 +2,7 @@
   "name": "real-estate",
   "private": true,
   "scripts": {
-    "test": "",
+    "test": "echo 'test'",
     "prepare": "husky"
   },
   "workspaces": [
